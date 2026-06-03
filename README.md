@@ -13,5 +13,4 @@ Proyecto de simulación robótica centrado en la validación cinemática de un m
 * `/scripts`: Código fuente de los scripts que controlan la actuación de los motores virtuales.
 
 ## Evidencia de Simulación
-*(Nota: Sube un GIF corto de tu simulación ejecutando el movimiento de apertura/cierre y pon la ruta aquí)*
-![Simulación del mecanismo en CoppeliaSim](docs/simulacion.gif)
+
